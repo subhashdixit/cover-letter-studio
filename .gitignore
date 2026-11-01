@@ -184,3 +184,10 @@ cython_debug/
 # Ignore API key file because it is sensitive information
 secret_key.py
 *.pdf
+node_modules/
+.pylint-cache/
+__pycache__/
+.env
+
+!site/
+!site/**
