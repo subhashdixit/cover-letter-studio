@@ -195,3 +195,6 @@ __pycache__/
 !package-lock.json
 
 !package.json
+
+# Install dependencies locally with npm ci; never commit node_modules.
+node_modules/
