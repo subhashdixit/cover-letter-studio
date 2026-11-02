@@ -1,5 +1,8 @@
 # Cover Letter Studio
 
+**Reproducible versions:** [Dependency versions and exact setup](DEPENDENCIES.md).
+
+
 [Open the application](https://subhashdixit.github.io/cover-letter-studio/) · [Report an issue](https://github.com/subhashdixit/cover-letter-studio/issues)
 
 Compare your supplied profile with a job description and create an editable, fact-constrained draft.
