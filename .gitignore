@@ -191,3 +191,5 @@ __pycache__/
 
 !site/
 !site/**
+
+!package-lock.json
